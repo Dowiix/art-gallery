@@ -1,0 +1,17 @@
+[
+  {
+    "id": "1",
+    "title": "Sunset",
+    "uri": "https://raw.githubusercontent.com/Dowiix/art-gallery/main/images/100.jpg"
+  },
+  {
+    "id": "2",
+    "title": "Mountains",
+    "uri": "https://raw.githubusercontent.com/Dowiix/art-gallery/main/images/96.jpg"
+  },
+  {
+    "id": "3",
+    "title": "City",
+    "uri": "https://raw.githubusercontent.com/Dowiix/art-gallery/main/images/97.jpg"
+  }
+]
