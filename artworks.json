@@ -1,17 +1,17 @@
 [
   {
     "id": "1",
-    "title": "Sunset",
-    "uri": "https://raw.githubusercontent.com/Dowiix/art-gallery/main/images/100.jpg"
+    "title": "Artwork 96",
+    "uri": "https://dowiix.github.io/art-gallery/images/96.jpg"
   },
   {
     "id": "2",
-    "title": "Mountains",
-    "uri": "https://raw.githubusercontent.com/Dowiix/art-gallery/main/images/96.jpg"
+    "title": "Artwork 97",
+    "uri": "https://dowiix.github.io/art-gallery/images/97.jpg"
   },
   {
     "id": "3",
-    "title": "City",
-    "uri": "https://raw.githubusercontent.com/Dowiix/art-gallery/main/images/97.jpg"
+    "title": "Artwork 100",
+    "uri": "https://dowiix.github.io/art-gallery/images/100.jpg"
   }
 ]
