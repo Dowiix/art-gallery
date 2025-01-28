@@ -13,5 +13,19 @@
     "id": "3",
     "title": "Artwork 100",
     "uri": "https://dowiix.github.io/art-gallery/images/File 100.jpg"
-  }
+  },
+  {
+    "id": "4",
+    "title": "Artwork 282",
+    "uri": "https://dowiix.github.io/art-gallery/images/File 282.jpg"
+  },
+  {
+    "id": "5",
+    "title": "Artwork 283",
+    "uri": "https://dowiix.github.io/art-gallery/images/File 283.jpg"
+  },{
+    "id": "6",
+    "title": "Artwork 298",
+    "uri": "https://dowiix.github.io/art-gallery/images/File 298.jpg"
+  },
 ]
